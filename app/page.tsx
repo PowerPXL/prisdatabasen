@@ -5,12 +5,13 @@ export default function Home() {
   return (
     <main className="flex flex-col gap-10">
       
-      <ContentBlock title="next-canvas by Pavent">
-        Run the steps below to get startedd
+      <ContentBlock title="**Prisdatabasen håller koll på hushållsvarornas priser**">
+        Prisdatabasen hjälper dig att förstå vad en vara faktiskt är värd, inte bara vad butiken säger att du sparar. När du ser ett rea-pris kan du jämföra det mot ett verkligt normalpris och se hur stor rabatten egentligen är. Är det ett riktigt fynd, eller bara ett högt ordinarie pris som sänkts? Med Prisdatabasen kan du snabbt upptäcka om exempelvis toalettpapper för 70 kr/kg är ett bra köp eller om du betalar mer än normalt.
+
       </ContentBlock>
       
             <ContentCard
-        blockTitle="INSTALL the COPY and RUN"
+        blockTitle="Dagens pris"
         items={[
           {
             title: "Install",

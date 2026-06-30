@@ -6,11 +6,11 @@ export default function Header() {
   <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-6">
     
     <div className="text-xl font-bold">
-      <Link href="/">Logo</Link>
+      <Link href="/">Prisdatabasen.se</Link>
     </div>
 
 <nav className="flex gap-6">
-  <Link href="/faq" className="hover:text-blue-600 transition-colors">FAQ</Link>
+  <Link href="/faq" className="hover:text-blue-600 transition-colors">Join our team</Link>
   <Link href="/kontakt" className="hover:text-blue-600 transition-colors">Kontakt</Link>
 </nav>
 <div>
