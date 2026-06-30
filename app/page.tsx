@@ -6,7 +6,7 @@ export default function Home() {
     <main className="flex flex-col gap-10">
       
       <ContentBlock title="next-canvas by Pavent">
-        Run the steps below to get started
+        Run the steps below to get startedd
       </ContentBlock>
       
             <ContentCard
